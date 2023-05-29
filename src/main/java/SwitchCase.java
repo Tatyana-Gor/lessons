@@ -24,6 +24,7 @@ public class SwitchCase {
                     break;
                 default: // значение по умолчанию
                     System.out.println("Не понимаю сообщение");
+
             }
         }
     }
